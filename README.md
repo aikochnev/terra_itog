@@ -25,39 +25,39 @@
 
 ### Задание 1
 
-<img src = "img/t04-01.png" width = 100%>
+<img src = "img/itog-01.png" width = 100%>
 
-<img src = "img/t04-02.png" width = 100%>
+<img src = "img/itog-02.png" width = 100%>
 
-<img src = "img/t04-03.png" width = 100%>
+<img src = "img/itog-03.png" width = 100%>
 
-<img src = "img/t04-04.png" width = 100%>
-
-<img src = "img/t04-05.png" width = 100%>
-
-<img src = "img/t04-06.png" width = 100%>
-
-<img src = "img/t04-07.png" width = 100%>
-
-<img src = "img/t04-08.png" width = 100%>
-
-<img src = "img/t04-09.png" width = 100%>
+<img src = "img/itog-04.png" width = 100%>
 
 ---
 
 ### Задание 2
 
-<img src = "img/t04-10.png" width = 100%>
+<img src = "img/itog-05.png" width = 100%>
 
-<img src = "img/t04-11.png" width = 100%>
+<img src = "img/itog-06.png" width = 100%>
 
-<img src = "img/t04-12.png" width = 100%>
+<img src = "img/itog-07.png" width = 100%>
 
-<img src = "img/t04-13.png" width = 100%>
+<img src = "img/itog-08.png" width = 100%>
+
+<img src = "img/itog-09.png" width = 100%>
+
+<img src = "img/itog-10.png" width = 100%>
 
 ---
 
 ### Задание 3
+
+<img src = "img/itog-11.png" width = 100%>
+
+<img src = "img/t04-12.png" width = 100%>
+
+<img src = "img/t04-13.png" width = 100%>
 
 <img src = "img/t04-14.png" width = 100%>
 
