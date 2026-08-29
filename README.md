@@ -55,20 +55,43 @@
 
 <img src = "img/itog-11.png" width = 100%>
 
-<img src = "img/t04-12.png" width = 100%>
+<img src = "img/itog-12.png" width = 100%>
 
-<img src = "img/t04-13.png" width = 100%>
+<img src = "img/itog-13.png" width = 100%>
 
-<img src = "img/t04-14.png" width = 100%>
+<img src = "img/itog-14.png" width = 100%>
 
-<img src = "img/t04-15.png" width = 100%>
+<img src = "img/itog-15.png" width = 100%>
 
-<img src = "img/t04-16.png" width = 100%>
+<img src = "img/itog-16.png" width = 100%>
 
 ---
 
 ### Задание 4
 
-<img src = "img/t04-17.png" width = 100%>
+<img src = "img/itog-17.png" width = 100%>
+
+<img src = "img/itog-18.png" width = 100%>
+
+<img src = "img/itog-19.png" width = 100%>
+
+<img src = "img/itog-20.png" width = 100%>
+
+<img src = "img/itog-21.png" width = 100%>
+
+<img src = "img/itog-22.png" width = 100%>
+
+<img src = "img/itog-23.png" width = 100%>
+
+
+---
+
+### Задание 5
+
+<img src = "img/itog-24.png" width = 100%>
+
+<img src = "img/itog-25.png" width = 100%>
+
+<img src = "img/itog-26.png" width = 100%>
 
 ---
