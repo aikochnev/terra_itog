@@ -33,3 +33,9 @@ variable "zone_d" {
   type    = string
   default = "ru-central1-d"
 }
+
+variable "username" {
+  type        = string
+  description = "Linux user for SSH and Docker"
+  default     = "ubuntu"
+}

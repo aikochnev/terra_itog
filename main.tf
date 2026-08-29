@@ -57,8 +57,7 @@ locals {
     }
   }
 
-  ssh_public_key = file(pathexpand("~/.ssh/ubuntu.pub"))
-}
+ }
 
 resource "yandex_compute_instance" "web" {
   for_each = local.web_nodes
@@ -89,8 +88,12 @@ resource "yandex_compute_instance" "web" {
   }
 
   metadata = {
-    ssh-keys = "ubuntu:${var.ssh_public_key}"
+    user-data = templatefile("${path.module}/cloud-init.yml", {
+      username       = var.username
+      ssh_public_key = var.ssh_public_key
+    })
   }
+
 }
 
 # ----------------------------

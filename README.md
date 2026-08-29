@@ -39,6 +39,10 @@
 
 <img src = "img/itog-05.png" width = 100%>
 
+---
+
+### Задание 3
+
 <img src = "img/itog-06.png" width = 100%>
 
 <img src = "img/itog-07.png" width = 100%>
@@ -48,10 +52,6 @@
 <img src = "img/itog-09.png" width = 100%>
 
 <img src = "img/itog-10.png" width = 100%>
-
----
-
-### Задание 3
 
 <img src = "img/itog-11.png" width = 100%>
 
