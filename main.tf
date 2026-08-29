@@ -81,6 +81,10 @@ resource "yandex_compute_instance" "web" {
     }
   }
 
+  scheduling_policy {
+    preemptible = true
+  }
+
   network_interface {
     subnet_id          = each.value.subnet_id
     nat                = true

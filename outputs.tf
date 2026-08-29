@@ -23,3 +23,7 @@ output "container_registry_id" {
 output "container_image_path" {
   value = "cr.yandex/${yandex_container_registry.main.id}/my-app"
 }
+output "mysql_fqdn" {
+  description = "Private FQDN of Managed MySQL host"
+  value       = yandex_mdb_mysql_cluster.mysql.host[0].fqdn
+}
